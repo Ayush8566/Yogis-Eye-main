@@ -15,7 +15,7 @@ Follow these steps to get the project up and running:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/ITER-SIH/Team-37.git
+   [ git clone https://github.com/ayush](https://github.com/Ayush8566/Yogis-Eye-main.git)
     ```
 2. Navigate to the project directory:
 
